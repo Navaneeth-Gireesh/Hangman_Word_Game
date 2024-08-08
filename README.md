@@ -23,4 +23,3 @@ hangman/
 ├── hangman_words.py   # Contains the list of words
 ├── hangman_art.py     # Contains ASCII art and logo
 ├── README.md          # Project documentation
-└── .gitignore         # Files to ignore in version control

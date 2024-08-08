@@ -12,15 +12,3 @@ This project is a Python implementation of the classic word-guessing game **Hang
 - **Graphical Feedback:** ASCII art is used to represent the hangman’s state as the player loses lives.
 - **Replayability:** The word list includes a variety of words, allowing for multiple rounds of gameplay.
 
-## Project Structure
-
-The project is organized as follows:
-
-```plaintext
-hangman/
-│
-├── hangman.py         # Main game logic
-├── hangman_words.py   # Contains the list of words
-├── hangman_art.py     # Contains ASCII art and logo
-├── README.md          # Project documentation
-
